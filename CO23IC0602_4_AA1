@@ -1,1 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Zoo Visit - Animals</title>
+</head>
+<body>
+	<h1>Animals of the Zoo</h1>
+  <h2>Lion</h2>
+<img src="lion.jpg" alt="Lion">
+<p>The lion is a majestic big cat known for its powerful roar and majestic mane. It is often referred to as the "king of the jungle"...</p>
 
+<h2>Elephant</h2>
+<img src="elephant.jpg" alt="Elephant">
+<p>The elephant is the largest land mammal, known for its incredible size and gentle nature. It has a long trunk and impressive tusks...</p>
+</body>
+</html>
